@@ -1,0 +1,6 @@
+{
+  "name": "погода AI",
+  "description": "A stunning, real-time weather app showcasing premium visual particle effects (animated rain, snow, lightning, and wind) integrated with actual weather forecasts and personal AI-driven daily summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
